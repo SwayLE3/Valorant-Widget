@@ -4,6 +4,8 @@ For this to work you need an API key that you can find here ; [Henrik's discord]
 
 Thanks a lot to [Henrik](https://github.com/Henrik-3) for his incredible work which without it would be impossible.
 
+![Screen 1](https://raw.githubusercontent.com/SwayLE3/Valorant-Widget/refs/heads/main/src/Screenshot_2025.jpg)
+
 
 # Legal
 This API isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
